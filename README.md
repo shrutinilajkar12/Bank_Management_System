@@ -73,6 +73,6 @@ String password = "your_password";
 - Mobile Banking Integration
 - Admin Dashboard
 
-## Author
+## Developer
 
 Shruti Nilajkar
