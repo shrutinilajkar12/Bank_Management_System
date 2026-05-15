@@ -43,3 +43,36 @@ Bank Management System/
 │── database file.txt
 │── mysql-connector-java-8.0.28.jar
 │── jcalendar-tz-1.3.3-4.jar
+```
+
+## How to Run
+
+1. Clone the repository
+2. Open the project in IntelliJ IDEA / Eclipse
+3. Configure the MySQL database
+4. Add JDBC and JCalendar libraries
+5. Run the main Java file
+
+## Database Configuration
+
+Update your MySQL username and password in the connection file before running the project.
+
+Example:
+
+```java
+String url = "jdbc:mysql://localhost:3306/bankmanagementsystem";
+String username = "root";
+String password = "your_password";
+```
+
+## Future Enhancements
+
+- Online Banking Support
+- OTP Verification
+- Fund Transfer Module
+- Mobile Banking Integration
+- Admin Dashboard
+
+## Author
+
+Shruti Nilajkar
