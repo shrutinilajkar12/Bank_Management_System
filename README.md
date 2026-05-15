@@ -28,6 +28,12 @@ A Java-based desktop application developed using Java Swing and JDBC to automate
 - JCalendar Library
 - IntelliJ IDEA / Eclipse / VS Code
 
+## Database Setup
+
+1. Create a MySQL database
+2. Import the `bank_management_system.sql` file
+3. Update database credentials in the Java code
+
 ## Project Structure
 
 ```bash
